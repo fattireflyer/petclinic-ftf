@@ -1,0 +1,13 @@
+package com.lorrant.petclinicftf;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class PetclinicFtfApplication {
+
+    public static void main(String[] args) {
+        SpringApplication.run(PetclinicFtfApplication.class, args);
+    }
+
+}
